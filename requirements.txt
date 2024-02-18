@@ -1,0 +1,5 @@
+pandas>=1.5.3
+yfinance>=0.1.48
+datetime>=4.8.4
+plotly>=5.11.0
+autots>=0.3.48
